@@ -1,4 +1,4 @@
-# WeatherPy-with-Python-APIs
+# Weather API
 
 ## Purpose of this project:
 This project aims to enhance the PlanMyTrip app by adding weather descriptions to the weather data and allowing beta testers to filter the data for their weather preferences to identify potential travel destinations and nearby hotels. 
